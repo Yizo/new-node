@@ -8,3 +8,5 @@
   `vim Shadowsocks_install.sh`
 ### 4. 执行脚本文件安装Shadowsocks
   `bash Shadowsocks_install.sh`
+  
+  https://my.vultr.com/
