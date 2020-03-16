@@ -1,9 +1,10 @@
 # new-node
 创建服务器节点
-ssh 账号@服务器IP -p 端口
 
 ### 1. 安装centos7 系统 
 ### 2. 登陆服务器安装 vim 
+   ssh 账号@服务器IP -p 端口 
+   
    `yum install vim -y` 
 ### 3. 创建脚本文件
   `vim Shadowsocks_install.sh`
