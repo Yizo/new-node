@@ -10,3 +10,9 @@
   `bash Shadowsocks_install.sh`
   
   https://my.vultr.com/
+
+### 5. vim常用命令
+:w 保存
+:wq, :x	保存并关闭
+:q	关闭（已保存）
+:q!	强制关闭
